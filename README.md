@@ -32,14 +32,11 @@ I’ll gradually cover all major DSA topics including:
 | 10 | Advanced Topics (Tries, Segment Trees, etc.) | 🔜 Upcoming |
 
 ---
-
-### 📂 Repository Structure
-
-
-
-
-
-
 ### 🧩 My Daily Goals
 - 📖 Solve at least **1–2 DSA problems daily**  
 - 🧠 Learn one new concept every few days 
+
+### 💬 Connect with Me
+- 📧 Email: *[saurrravvvv@gmail.com]*  
+- 💼 LinkedIn: *[https://www.linkedin.com/in/saurav-devkota-1639512bb/]*  
+- 🐙 GitHub: *[www.github.com/Sauurravv]*  
