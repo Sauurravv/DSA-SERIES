@@ -1,38 +1,39 @@
 #include <iostream>
 #include <list>
+#include <bits/stdc++.h>
 using namespace std;
 
 class Node
 {
 public:
-    int value;
+    int data;
     Node *next;
 
-    Node(int val)
+    Node(int data1)
     {
-        value = val;
-        next = NULL;
+        data = data1;
+        next = nullptr;
     }
 };
 
-void traverse(Node *head)
-{
-    Node *temp = head;
+// void traverse(Node *head)
+// {
+//     Node *temp = head;
 
-    while (temp != NULL)
-    {
-        cout << temp->value << "->";
-        temp = temp->next;
-    }
-    cout << "NULL" << endl;
-}
+//     while (!temp != NULL)
+//     {
+//         cout << temp->data << " ";
+//         temp = temp->next;
+//     }
+//     cout << "Null" << endl;
+// }
 
 int main()
 {
-    Node *node1 = new Node(1);
-    Node *node2 = new Node(2);
-    node1->next = node2;
-    Node *head = node1;
-    traverse(head);
+    vector<int> arr = {2, 5, 6, 7};
+    Node *y = new Node(arr[0]);
+    // cout << y.data;
+    cout << y->data;
+
     return 0;
 }
