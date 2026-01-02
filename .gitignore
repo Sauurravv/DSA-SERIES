@@ -1,0 +1,5 @@
+*.exe
+.vscode/
+map/
+queue/
+8.palindrome/
