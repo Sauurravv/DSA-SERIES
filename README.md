@@ -20,9 +20,9 @@ I’ll gradually cover all major DSA topics including:
 
 | # | Topic | Status |
 |---|--------|--------|
-| 1 | Arrays & Strings | ⏳ In Progress |
+| 1 | Arrays & Strings | ✅Completed |
 | 2 | Linked Lists | ⏳ In Progress |
-| 3 | Stacks & Queues | 🔜 Upcoming |
+| 3 | Stacks & Queues | ✅Completed |
 | 4 | Trees | 🔜 Upcoming |
 | 5 | Graphs | 🔜 Upcoming |
 | 6 | Recursion & Backtracking | 🔜 Upcoming |
