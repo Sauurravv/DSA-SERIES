@@ -37,6 +37,6 @@ I’ll gradually cover all major DSA topics including:
 - 🧠 Learn one new concept every few days 
 
 ### 💬 Connect with Me
-- 📧 Email: *[saurrravvvv@gmail.com]*  
-- 💼 LinkedIn: *[https://www.linkedin.com/in/saurav-devkota-1639512bb/]*  
-- 🐙 GitHub: *[www.github.com/Sauurravv]*  
+- [📧 Email](saurrravvvv@gmail.com)  
+- [💼 LinkedIn](https://www.linkedin.com/in/saurav-devkota-1639512bb/)
+- [🐙 GitHub](www.github.com/Sauurravv)  
