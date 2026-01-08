@@ -21,7 +21,7 @@ I’ll gradually cover all major DSA topics including:
 | # | Topic | Status |
 |---|--------|--------|
 | 1 | Arrays & Strings | ✅Completed |
-| 2 | Linked Lists | ⏳ In Progress |
+| 2 | Linked Lists | ✅Completed |
 | 3 | Stacks & Queues | ✅Completed |
 | 4 | Trees | 🔜 Upcoming |
 | 5 | Graphs | 🔜 Upcoming |
